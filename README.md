@@ -1,4 +1,4 @@
-#📊  AdmissionPredictor-LinearRegression
+📊  #AdmissionPredictor-LinearRegression
 
 🧠 Project Overview
 This project leverages Linear Regression and its variants (Lasso, Ridge) to predict the admission chances of Indian applicants into Ivy League universities based on academic and profile features such as CGPA, GRE score, TOEFL score, SOP, LOR, and university rating.
